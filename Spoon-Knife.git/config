@@ -1,0 +1,9 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/anil18/Spoon-Knife.git
+[remote "anil18"]
+	url = https://github.com/anil18/Spoon-Knife.git
+	fetch = +refs/heads/*:refs/remotes/anil18/*
